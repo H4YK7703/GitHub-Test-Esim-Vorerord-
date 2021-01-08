@@ -21,3 +21,5 @@ try {
 } catch (err) {
     alert("What is the Going Wrong , Try Again!");
 }
+
+alert("Final Test");
